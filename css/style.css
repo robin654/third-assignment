@@ -1,0 +1,109 @@
+header{
+    height: 100px;
+    width: 100%;
+}
+.hleft{
+    background-color: aqua;
+    text-align: center;
+    color: black;
+    float: left;
+    width: 30%;
+
+}
+
+.hright{
+    background-color: brown;
+    color: cornsilk;
+    text-align: center;
+    float: right;
+    width: 70%;
+}
+
+.hbar{
+    background-color:deeppink;
+    text-align: center;
+    height: 200px;
+    width: 100%;
+}
+
+.content{
+    overflow: hidden;
+
+}
+
+.left{
+    background-color:tomato;
+    height: 500px ;
+    width: 25%;
+    float: left ;
+
+}
+
+.centre{
+    background-color:pink ;
+    height: 500px;
+    width: 50%;
+    float: left ;
+    overflow: hidden;
+
+}
+
+.top{
+    background-color: forestgreen;
+    height: 30% ;
+    width: 100%;
+
+}
+.middle{
+    height: 40%;
+    width: 100%;
+    overflow: hidden;
+}
+    
+.middle_left{
+    background-color: mediumorchid;
+    height: 100%;
+    width: 50% ;
+    float: left;
+
+}
+
+.middle_right{
+    background-color:salmon;
+    height: 100%;
+    width: 50%;
+    float: right;
+
+}
+
+.bottom{
+    background-color: red;
+    height: 30%;
+    width: 100%;
+    
+
+}
+
+.right{
+    background-color: navy ;
+    height: 500px ;
+    width: 25%;
+    float: right;
+}
+
+.hcontent{
+    overflow: hidden;
+}
+
+h1{
+    text-align: center;
+    color: seashell;
+    margin: 0%;
+    padding: 0%;
+}
+
+footer{
+    background-color: gold;
+    height: 300%;
+    width: 100%;
+}
